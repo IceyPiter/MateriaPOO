@@ -1,1 +1,3 @@
-A
+Olá... 
+sou aluno Pedro Moraes Michalski 
+3° Ano de Informatica, IFPR Cascevel
