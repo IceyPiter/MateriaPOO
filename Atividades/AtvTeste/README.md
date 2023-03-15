@@ -6,7 +6,7 @@ Descrição:
 >  Criação do imput
 
 Código Java:  
-`package Atividades.AtvTeste.notebook;  
+package Atividades.AtvTeste.notebook;  
 import java.util.Scanner; //Importe da biblioteca Scanner  
 
 public class AtvTeste{ //Criação da classe atvTeste  
@@ -16,4 +16,4 @@ public class AtvTeste{ //Criação da classe atvTeste
         String out = line.nextLine(); //Pede a saida  
     }  
 }   
-`
+
