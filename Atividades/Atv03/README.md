@@ -13,7 +13,7 @@
 - Catch para captura de erros
 - Caso seja executado algum cancel, mostra mensagem "Operação cancelada" via showMessageDialog
 
-<h1>Por conta de incompatibilidade, não existe notebook para está atividade</h1>
+<h2>Por conta de incompatibilidade, não existe notebook para está atividade</h2>
 
 <h3>Código Java</h3>
 
