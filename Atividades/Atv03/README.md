@@ -2,16 +2,16 @@
 
 <h2>Passos para resolução</h2>
 
-- Import da classe JOptionPane
-- Criação da public class, e método main
-- Definição dos valores por meio do showInputDialog
-- if para testar valores nulos
-- Transformação da String dos valores para float
-- if para testar se valores são validos
-- Caso não seja valido, Mostra mensagem de problema
-- Execução do calculo da media, e Impressão do calcula via showMessageDialog
-- Catch para captura de erros
-- Caso seja executado algum cancel, mostra mensagem "Operação cancelada" via showMessageDialog
+- Import da classe JOptionPane.
+- Criação da public class, e método main.
+- Definição dos valores por meio do showInputDialog.
+- if para testar valores nulos.
+- Transformação da String dos valores para float.
+- if para testar se valores são validos.
+- Caso não seja valido, Mostra mensagem de problema.
+- Execução do calculo da media, e Impressão do calcula via showMessageDialog.
+- Catch para captura de erros.
+- Caso seja executado algum cancel, mostra mensagem "Operação cancelada" via showMessageDialog.
 
 <h2>Por conta de incompatibilidade, não há notebook para está atividade</h2>
 
