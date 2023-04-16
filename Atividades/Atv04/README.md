@@ -13,8 +13,8 @@
 -
 
 <h3>Código Java</h3>
-~~~~
 
+~~~~
 public class BancoTrimestral {
     public static void main (String[] args) {
         double gastosJaneiro = 30000.00;
@@ -25,5 +25,4 @@ public class BancoTrimestral {
         System.out.println("O total de gastos do trimeste é R$ " + gastosTrimestre);
     }
 }
-
 ~~~~
