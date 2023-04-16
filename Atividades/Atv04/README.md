@@ -2,15 +2,11 @@
 
 <h2>Passos para resolução</h2>
 
--
--
--
--
--
--
--
--
--
+- Criação da public class Atv05.
+- Criação do método main.
+- Inicialização das variaveis fixas.
+- Inicialização da variavel com a soma dos valores.
+- Printa mensagem na tela com a soma.
 
 <h3>Código Java</h3>
 
