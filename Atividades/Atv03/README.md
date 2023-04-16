@@ -28,7 +28,5 @@ public class Atv03 {
             JOptionPane.showMessageDialog(null, "Operação cancelada");
         }
     }
-
-    
 }
 ~~~~
