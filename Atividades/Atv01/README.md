@@ -2,15 +2,15 @@
 
 <h2>Passos para resolução</h2>
 
-- Import do Scanner
-- Criação da classe Atv01
-- Começa o do para pelo menos uma execução
-- Começa o try, para tentar executar
-- Printa mensagem e coloca o cursor naoutra linha
-- Inicializa a mensagem como input na outra linha
-- Catch para capturar erros
-- Cria while para condição do "Do"
-- Quando condição for falsa, printa mensagem da soma
+- Import do Scanner.
+- Criação da classe Atv01.
+- Começa o do para pelo menos uma execução.
+- Começa o try, para tentar executar.
+- Printa mensagem e coloca o cursor naoutra linha.
+- Inicializa a mensagem como input na outra linha.
+- Catch para capturar erros.
+- Cria while para condição do "Do".
+- Quando condição for falsa, printa mensagem da soma.
 
 <h3>Código</h3>
 
