@@ -2,17 +2,17 @@
 
 <h2>Passos para resolução</h2>
 
-- Import do Scanner
-- Criação da classe Atv02
-- Criação do método main
-- Criação variavel para classe Scanner
-- Impreme a mensagem "Informe um número Inteiro"
-- Posiciona o cursor na mesma linha com entrada de dados
-- Imprime a mensagem "Informe um número Inteiro" indo para proxima linha
-- Coloca o cursor na proxima linha com entrada de dados
-- Realiza o produto das variaveis "b" e "c" para "a"
-- Imprime o resultado em forma de folha de pagamento
-- Fecha o Scanner
+- Import do Scanner.
+- Criação da classe Atv02.
+- Criação do método main.
+- Criação variavel para classe Scanner.
+- Impreme a mensagem "Informe um número Inteiro".
+- Posiciona o cursor na mesma linha com entrada de dados.
+- Imprime a mensagem "Informe um número Inteiro" indo para proxima linha.
+- Coloca o cursor na proxima linha com entrada de dados.
+- Realiza o produto das variaveis "b" e "c" para "a".
+- Imprime o resultado em forma de folha de pagamento.
+- Fecha o Scanner.
 
 
 <h3>Código Java</h3>
