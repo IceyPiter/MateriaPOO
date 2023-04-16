@@ -2,20 +2,20 @@
 
 <h2>Passos para resolução</h2>
 
-- Import da biblioteca Scanner
-- Criaçaõ da classe Atv06
-- Criação do método main
-- Criação da variavel para Scanner
-- Printa a mensagem
-- Inicialização da variavel para entrada dos dados necessarios
-- Printa a mensagem
-- Inicialização da variavel para entrada dos dados necessarios
-- Incialização da variavel com o calcula do lucro por mês
-- inicialização da variavel para quantidade de meses
-- Criação do while para condição especifica
-- Incrementação da variavel dos meses
-- incrementação do valor depositado
-- Prita a mensagem da quantidade de meses
+- Import da biblioteca Scanner.
+- Criaçaõ da classe Atv06.
+- Criação do método main.
+- Criação da variavel para Scanner.
+- Printa a mensagem.
+- Inicialização da variavel para entrada dos dados necessarios.
+- Printa a mensagem.
+- Inicialização da variavel para entrada dos dados necessarios.
+- Incialização da variavel com o calcula do lucro por mês.
+- inicialização da variavel para quantidade de meses.
+- Criação do while para condição especifica.
+- Incrementação da variavel dos meses.
+- incrementação do valor depositado.
+- Prita a mensagem da quantidade de meses.
 
 <h3>Código Java</h3>
 
