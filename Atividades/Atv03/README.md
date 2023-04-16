@@ -1,3 +1,16 @@
+<h1>Atividade 03</h1>
+
+<h2>Passos para resolução</h2>
+- Import da classe JOptionPane
+- Criação da public class, e método main
+- Definição dos valores por meio do showInputDialog
+- If para testar valores nulos
+- Transformação da String dos valores para float
+- if para testar se valores são validos
+- Caso não seja valido, Mostra mensagem de problema
+- Execução do calculo da media, e Impressão do calcula via showMessageDialog
+- Catch para captura de erros
+- Caso seja executado algum cancel, mostra mensagem "Operação cancelada" via showMessageDialog
 
 <h3>Código Java</h3>
 
@@ -14,8 +27,8 @@ public class Atv03 {
                 float a = Float.parseFloat(nota1);
                 float b = Float.parseFloat(nota2);
                 float c = Float.parseFloat(nota3);
-                if(a > 100 || b > 100 || c > 100){
-                    JOptionPane.showMessageDialog(null,"Informe apenas número abaixo de 100");
+                if(a > 10 || b > 10 || c > 10){
+                    JOptionPane.showMessageDialog(null,"Informe apenas número igual ou abaixo de 10");
                 }else{
                     float media = (a + b + c)/3;
                     JOptionPane.showMessageDialog(null, "A Média das notas é " + media);
