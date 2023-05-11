@@ -28,7 +28,7 @@
 import javax.swing.JOptionPane;//Import da classe
 import java.util.Arrays;//Import da classe
 import java.util.Collections;//Import da classe
-public class Atv08 {//Criação da classe
+public class Atv07 {//Criação da classe
     public static void main(String[] args) {//Criação do método main
         
         String nota1 = JOptionPane.showInputDialog("Forneça a 1° Nota, números de 0-100");//|
